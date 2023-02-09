@@ -21,4 +21,4 @@ Open command line or terminal window and navigate to the folder. Type in below c
 
 ## Tips
 
-Uncomment `{ headless: false }` on line 29 of google-ad-scraper.js to see puppeteer in action
+Uncomment `{ headless: false }` on line 42 of google-ad-scraper.js to see puppeteer in action
